@@ -46,9 +46,12 @@ I love building projects, experimenting with new technologies and turning ideas 
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Goals
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=tokyonight&hide_border=true)
+- Build useful tools and apps
+- Improve my programming skills
+- Create unique game experiences
+- Turn ideas into real projects
 
 ---
 
