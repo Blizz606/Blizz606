@@ -61,11 +61,15 @@ I enjoy building software, experimenting with technology and turning ideas into 
 
 ## 🎧 Coding Soundtrack
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Levelssong.jpg/250px-Levelssong.jpg" width="120" height="120" style="border-radius:18px; margin-right:8px;">
-<img src="https://cdn-images.dzcdn.net/images/cover/f520bf0be2e3cfc476824e75d20a164a/0x1900-000000-80-0-0.jpg" width="120" height="120" style="border-radius:18px; margin-right:8px;">
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Avicii-Stories-2015-1200x1200.png" width="120" height="120" style="border-radius:18px; margin-right:8px;">
-<img src="https://scontent-dus1-1.xx.fbcdn.net/v/t39.30808-1/341346564_2373663132793695_3362952217255933069_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=UTagk0UsSZsQ7kNvwHyk4ZV&_nc_oc=AdmSAvDCusyxJGfL6mCF7PqF39l6M4bmxzGQMpoxGOVvW2Cm5NR5Uu1EnXP_Zlr6B5c&_nc_zt=24&_nc_ht=scontent-dus1-1.xx&_nc_gid=wOST7XzfqMEx3IJzoJyHcA&_nc_ss=8&oh=00_AfzmUJ7gPAV2pdsPBGbVEnPM39ef6KfMbipza-xrkcu0sw&oe=69BE1EDF" width="120" height="120" style="border-radius:18px; margin-right:8px;">
-<img src="https://images.thefacecdn.com/images/harry-styles-harrys-house-album.jpg?auto=compress&q=75&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&v=11-03-26&w=375" width="120" height="120" style="border-radius:18px;">
+<table>
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Levelssong.jpg/250px-Levelssong.jpg" width="120"></td>
+<td><img src="https://cdn-images.dzcdn.net/images/cover/f520bf0be2e3cfc476824e75d20a164a/0x1900-000000-80-0-0.jpg" width="120"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Avicii-Stories-2015-1200x1200.png" width="120"></td>
+<td><img src="https://scontent-dus1-1.xx.fbcdn.net/v/t39.30808-1/341346564_2373663132793695_3362952217255933069_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=UTagk0UsSZsQ7kNvwHyk4ZV&_nc_oc=AdmSAvDCusyxJGfL6mCF7PqF39l6M4bmxzGQMpoxGOVvW2Cm5NR5Uu1EnXP_Zlr6B5c&_nc_zt=24&_nc_ht=scontent-dus1-1.xx&_nc_gid=wOST7XzfqMEx3IJzoJyHcA&_nc_ss=8&oh=00_AfzmUJ7gPAV2pdsPBGbVEnPM39ef6KfMbipza-xrkcu0sw&oe=69BE1EDF" width="120"></td>
+<td><img src="https://images.thefacecdn.com/images/harry-styles-harrys-house-album.jpg?auto=compress&q=75&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&v=11-03-26&w=375" width="120"></td>
+</tr>
+</table>
 
 ---
 
